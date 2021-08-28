@@ -1,0 +1,13 @@
+spring:
+  data:
+    rest:
+      base-path: /api
+
+driverClassName: org.hsqldb.jdbc.JDBCDriver
+url:
+  jdbc:
+    hsqldb:
+      mem: myDb
+username: sa
+password: sa
+
