@@ -1,5 +1,0 @@
-DROP SCHEMA IF EXISTS inventory CASCADE;
-
-CREATE SCHEMA inventory;
-
-CREATE TABLE item;

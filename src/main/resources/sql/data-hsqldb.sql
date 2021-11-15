@@ -1,0 +1,1 @@
+INSERT INTO inventory.category VALUES ('Other', 'any product which corresponds to no existing category');

@@ -1,4 +1,4 @@
-package mk.jventory.common;
+package com.github.miroslav_kalal.jventory.common;
 
 public class Constants {
 
